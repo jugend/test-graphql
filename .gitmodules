@@ -1,0 +1,6 @@
+[submodule "GraphQLCasts"]
+	path = GraphQLCasts
+	url = https://github.com/StephenGrider/GraphQLCasts.git
+[submodule "auth-graphql-starter"]
+	path = auth-graphql-starter
+	url = https://github.com/StephenGrider/auth-graphql-starter.git
